@@ -1,3 +1,24 @@
+# Employee Job History - Angular + NgRx + ASP.NET Core + Oracle DB
+
+## Tech Stack
+- Angular (Standalone)
+- NgRx Store & Effects
+- ASP.NET Core Web API
+- Oracle DB
+- Dapper
+
+## Features
+- Search employee by ID
+- View manager details
+- View job history
+- State management with NgRx
+
+## How to Run
+1. Start backend API
+2. Run `ng serve`
+3. Navigate to http://localhost:4200
+
+
 # EmplJobHist
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.0.
